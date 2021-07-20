@@ -18,7 +18,7 @@
 5. The three infoX files were integrated by the HTML application file: infoX DSS.hta, which searches the infoX DSS.html on the Desktop and show it on the User Interface as a link to start infoX DSS. The hta file also shows the link to the developer webpage, where the README text and the source codes of the AI are provided.
 6. The source code of the AI has been packaged and released on Github since July 18, 2021.
 7. The decsion trees will be updated when necessary, weekly or monthly, for better results.
-8. The developer is Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resiurces and Environment, Bangkok, monte@mnre.go.th
+8. The developer is Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment, Bangkok, monte@mnre.go.th
 
 # Version History
 **v1.1.1**
