@@ -21,6 +21,10 @@
 8. The developer is Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment, monte@mnre.go.th
 
 # Version History
+v1.1.2
+-Improve the second decision tree (dtb)
+-- Solution 1.13.1 is too long / add more branches about
+--- Agencie names / Infomation types / Conditions of the person who requests 
 **v1.1.1**
 - New HTA UI
 - infoX DSS for Windows 10 included
