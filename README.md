@@ -1,5 +1,5 @@
 # User's Guide
-**Information Expert Decision Supporting System** (infoX DSS) is an ongoing AI development project carried out since 2020, after the completion of the first phase in 2019 that results in the prototype program called infoX Pro. I have been using infoX for expressing my opinions on official information disclosure under the Official Information Act, B. E. 2540 since 2020. The AI gave me correct recommendations on official information disclosure, based on the facts I provided and the decision trees trained by suppervised learning.
+**Information Expert Decision Supporting System** (infoX DSS) is an ongoing AI development project carried out since 2020, after the completion of the first phase in 2019 that results in the prototype program called infoX Pro. I have been using infoX for expressing my opinions on official information disclosure under the Official Information Act, B. E. 2540 since 2020. The AI gave me correct recommendations on official information disclosure, based on the facts I provided and the decision trees trained by suppervised learning. The AI always works step-by-step, from checking the person's right, checking the information availablity and characteristics, and checking the relevant articles that disclose or close the information being requested.
 
 # How to Use
 1. Download the new **infoX DSS package** from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
@@ -22,8 +22,8 @@
 
 # Version History
 v1.1.2
-- Improve the second decision tree (dtb)
-- Solution 1.13.1 is too long / add more branches about AGENCY NAME / INFORMATION TYPES / PERSONAL CONDICTIONS 
+- Improve the second decision tree (dtb): Solution 1.13.1 needs more branches on AGENCY NAME / INFORMATION TYPE / PERSONAL CONDICTION 
+- Add sub-branches to Query 1.5.2, 1.5.3, and 1.5.4: Get data from Solution 1.13.1.
 
 **v1.1.1**
 - New HTA UI
