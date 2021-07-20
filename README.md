@@ -22,10 +22,10 @@
 
 # Version History
 **v1.1.1**
-- New UI (return to HTA)
+- New HTA UI
+- infoX DSS for Windows 10 included
 - Small size (PDFs excluded)
 
 **v1.1.0**
-- New UI file (infoX DSS.html)
 - User's Guide (User Guide.hta)
 - Updated the second decison tree
