@@ -23,7 +23,7 @@
 # Version History
 **v1.1.1**
 - New UI (return to HTA)
-- Small size (PDF excluded)
+- Small size (PDFs excluded)
 
 **v1.1.0**
 - New UI file (infoX DSS.html)
