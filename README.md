@@ -7,7 +7,7 @@
 3. Unzip the **infoX.zip** file
 4. Place the unzipped folder, **infoX**, on the **Desktop** of your computer.
 5. Open the folder and double-clicking the **infoXv.1.1.1** program file.
-6. Click the Disclaimer button and follow its instruction.
+6. Click the **Disclaimer** button and follow its instruction.
 7. Answer the quaries very carefully, by checking the right answer for each query. 
 8. The AI will eventually make a recommendation on official information disclosure for your case. 
 
