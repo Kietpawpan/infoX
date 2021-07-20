@@ -20,12 +20,10 @@
 7. The decsion trees will be updated when necessary, weekly or monthly, for better results.
 8. The developer is Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resiurces and Environment, Bangkok, monte@mnre.go.th
 
-
-# Disclaimer
-The views expressed by the AI were trained by the developer and do not necessarily represent those of the Ministry of Natural Resources and Environment. In addition, the resolutions offered by the AI have not been subjected to the Ministry's required peer and policy review. No official Ministry endorsement should be inferred. I, the developer, also disclaim all responsibility for the mistakes and negative consequences (if any) made by the AI or the user.
-
-
 # Version History
+**v1.1.1**
+- New UI (return to HTA)
+
 **v1.1.0**
 - New UI file (infoX DSS.html)
 - User's Guide (User Guide.hta)
