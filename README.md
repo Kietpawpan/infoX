@@ -22,9 +22,9 @@
 
 # Version History
 v1.1.2
--Improve the second decision tree (dtb)
--- Solution 1.13.1 is too long / add more branches about
---- Agencie names / Infomation types / Conditions of the person who requests 
+- Improve the second decision tree (dtb)
+- Solution 1.13.1 is too long / add more branches about AGENCY NAME / INFORMATION TYPES / PERSONAL CONDICTIONS 
+
 **v1.1.1**
 - New HTA UI
 - infoX DSS for Windows 10 included
