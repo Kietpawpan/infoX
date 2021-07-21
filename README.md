@@ -15,8 +15,8 @@
 1. Legal knowledge was gained mainly from the website of the Office of the Prime Minister.
 2. Decision trees were made with HTML5/CSS/JavaScript. 
 3. JQuery was used for dynamic display of queries, choices, and decisions: https://code.jquery.com/jquery-1.5.js. 
-4. User interface was designed and programed with HTA.
-5. The AI program files were written, packaged, and released on Github by the developer, Dr. Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment, monte@mnre.go.th.
+4. User interface was designed and programed with HTA/HTML/JavaScript/VBScript
+5. The AI was programmed, tested, packaged, and released on Github by the developer, Dr. Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment, monte@mnre.go.th.
 
 # Version History
 v1.1.2
