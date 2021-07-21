@@ -12,7 +12,7 @@
 5. Check the right answers for your case, until the AI makes a recommendation on official information disclosure. 
 
 # Development
-1. Legal knowledge was gained by reading the the Official Information Act B.E. 2540 and relevant document on the website of the Office of the Prime Minister.
+1. Legal knowledge was gained by reading the learning resources on the website of the Office of the Prime Minister.
 2. Decision trees were made with HTML5/CSS/JavaScript. 
 3. JQuery was used for dynamic display of queries, choices, and decisions: https://code.jquery.com/jquery-1.5.js. 
 4. User interface was designed and programed with HTA.
