@@ -19,6 +19,10 @@
 5. The AI was programmed with Notepad++, tested, packaged, and released on Github by the developer, Dr. Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment, monte@mnre.go.th
 
 # Version History 
+**v1.2.3**
+This is a bug fix version
+1. Fixed a bug that infoX DSS could not run on Windows. This bug was introduced in v1.2.2
+ 
 **v1.2.2**
 This version is a minor updated version
 1. Trained decision tree to #6407212208 (dtb): Solution 1.5.1.1.2
