@@ -9,7 +9,7 @@
 2. Unzip the **package** file and place the unzipped folder (e.g., infoX-1.2.1) on the **Desktop** of your computer.
 3. Open the folder and double-clicking the **program file** (e.g., infoXforWindows10v1.2.1.hta)
 4. Click the **Disclaimer** button on the program screen and follow the instruction.
-5. Checking the right answers for your case until the AI makes a recommendation on official information disclosure. 
+5. Check the right answers for your case, until the AI makes a recommendation on official information disclosure. 
 
 # Development
 1. Laws knowledge was gained from a training course on the Official Information Laws B.E. 2540 run by the Office of the Prime Minister in 2019.
