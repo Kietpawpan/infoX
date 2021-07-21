@@ -20,7 +20,8 @@
 
 # Version History 
 **v1.2.2**
-1. Added Solution 1.5.1.1.2 in dtb tree
+This is a minor updated version
+1. Trained decision tree to #6407212208 (dtb): Solution 1.5.1.1.2
 2. Added Solution x
 
 
