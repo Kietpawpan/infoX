@@ -8,7 +8,7 @@
 1. Download the new **infoX DSS package** from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
 2. Unzip the **package** file and place the unzipped folder (e.g., infoX-1.2.1) on the **Desktop** of your computer.
 3. Open the folder and double-clicking the **program file** (e.g., infoXforWindows10v1.2.1.hta)
-4. Click the **Disclaimer** button on the program screen and follow its instruction.
+4. Click the **Disclaimer** button on the program screen and follow the instruction.
 5. Checking the right answers for your case until the AI makes a recommendation on official information disclosure. 
 
 # Development
