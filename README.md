@@ -6,13 +6,10 @@
 
 # How to Use
 1. Download the new **infoX DSS package** from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Unzip the **package** file. 
-3. Unzip the **infoX.zip** file
-4. Place the unzipped folder, **infoX**, on the **Desktop** of your computer.
-5. Open the folder and double-clicking the **infoXv.1.1.1** program file.
-6. Click the **Disclaimer** button and follow its instruction.
-7. Answer the quaries very carefully, by checking the right answer for each query. 
-8. The AI will eventually make a recommendation on official information disclosure for your case. 
+2. Unzip the **package** file and place the unzipped folder on the **Desktop** of your computer.
+3. Open the folder and double-clicking the program file (e.g., infoXforWindows10v1.2.1)
+4. Click the **Disclaimer** button on the program screen and follow its instruction.
+5. Checking the right answers for your case until the AI makes a recommendation on official information disclosure. 
 
 # Development
 1. Laws knowledge was gained from a training course on the Official Information Laws B.E. 2540 run by the Office of the Prime Minister in 2019.
