@@ -1,4 +1,4 @@
-**InfoX DSS v1.2.1 User's Guide**<div id="g"></div>
+**User's Guide, InfoX DSS v1.2.1 **<div id="g"></div>
 **Information Expert Decision Supporting System** (infoX DSS) is an ongoing AI development project carried out since 2020, after the completion of the first phase in 2019 that results in the prototype program called infoX Pro. I have been using infoX for expressing my opinions on official information disclosure under the Official Information Act, B. E. 2540 since 2020. The AI gave me correct recommendations on official information disclosure, based on the facts I provided and the decision trees trained by suppervised learning. The AI always works step-by-step, from checking the person's right, checking the information availablity and characteristics, to checking the laws articles that serve to disclose or close the information being requested.
 
 # How to Use
