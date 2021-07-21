@@ -9,7 +9,7 @@
 2. Extract and place the AI folder: **infoX-1.2.3** on the **Desktop** of your computer.
 3. Open the folder and double-click the proper AI file, either **infoXforWindows2021v1.2.3** or **infoXforWindows2018v1.2.3**. 
 4. Click the **Disclaimer** button on the program screen and follow the instruction.
-5. Check the right answers for your case until the AI makes the recommendation on official information disclosure for you. 
+5. Check the right answers for your case until the AI makes the recommendation on official information disclosure. 
 
 # Development
 1. Legal knowledge was gained mainly from the website of the Office of the Prime Minister.
