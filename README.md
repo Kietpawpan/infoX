@@ -1,4 +1,4 @@
-infoX DSS v1.2.1<div id="g"></div>
+<div id="g"></div>infoX DSS v1.2.1
 
 **USER'S GUIDE**
 
