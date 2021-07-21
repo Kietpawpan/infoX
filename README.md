@@ -23,6 +23,7 @@
 This version is a minor updated version
 1. Trained decision tree to #6407212208 (dtb): Solution 1.5.1.1.2
 2. Trained decision tree to #6407212232 (dtb): Solution 1.5.2.2
+3. Trained decision tree to #6407212326 (dtb): Solutions 1.5.2.1, 1.5.2.2, 1.5.3.1.1, and 1.5.3.1.2
 
 **v1.2.1**
 - Work on Windows 10 both 2018 and 2021 editions 
@@ -39,4 +40,4 @@ This version is a minor updated version
 
 # Issues
 - Improve the second decision tree (dtb): Solution 1.13.1 needs more branches on AGENCY NAME / INFORMATION TYPE / PERSONAL CONDICTION 
-- Add sub-branches to Query 1.5.2, 1.5.3, and 1.5.4: Get data from Solution 1.13.1.
+[x] Add sub-branches to Query 1.5.2, 1.5.3, and 1.5.4: Get data from Solution 1.13.1.
