@@ -20,10 +20,9 @@
 
 # Version History 
 **v1.2.2**
-This is a minor updated version
+This version is a minor updated version
 1. Trained decision tree to #6407212208 (dtb): Solution 1.5.1.1.2
-2. Added Solution x
-
+2. Trained decision tree to #6407212232 (dtb): Solution 1.5.2.2
 
 **v1.2.1**
 - Work on Windows 10 both 2018 and 2021 editions 
