@@ -18,10 +18,11 @@
 4. User interface was designed and programed with HTA/HTML/JavaScript/VBScript
 5. The AI was programmed, tested, packaged, and released on Github by the developer, Dr. Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment, monte@mnre.go.th.
 
-# Version History
-v1.1.2
-- Improve the second decision tree (dtb): Solution 1.13.1 needs more branches on AGENCY NAME / INFORMATION TYPE / PERSONAL CONDICTION 
-- Add sub-branches to Query 1.5.2, 1.5.3, and 1.5.4: Get data from Solution 1.13.1.
+# Version History 
+
+**v1.2.1**
+- Work on Windows 10 both 2018 and 2021 editions 
+- Package improvement / easier installation / Github-folder creation 
 
 **v1.1.1**
 - New HTA UI
@@ -31,3 +32,7 @@ v1.1.2
 **v1.1.0**
 - User's Guide (User Guide.hta)
 - Updated the second decison tree
+
+# Issues
+- Improve the second decision tree (dtb): Solution 1.13.1 needs more branches on AGENCY NAME / INFORMATION TYPE / PERSONAL CONDICTION 
+- Add sub-branches to Query 1.5.2, 1.5.3, and 1.5.4: Get data from Solution 1.13.1.
