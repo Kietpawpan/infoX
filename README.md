@@ -19,6 +19,10 @@
 5. The AI was programmed with Notepad++, tested, packaged, and released on Github by the developer, Dr. Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment, monte@mnre.go.th
 
 # Version History 
+**v1.2.2**
+1. Added Solution 1.5.1.1.2 in dtb tree
+2. Added Solution x
+
 
 **v1.2.1**
 - Work on Windows 10 both 2018 and 2021 editions 
