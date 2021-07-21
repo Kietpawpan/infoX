@@ -31,7 +31,7 @@ Dim file, oAnchor ' local variable
   
   set oWSHShell = CreateObject("WScript.Shell")
   sTemplates = oWSHShell.expandenvironmentstrings("%userprofile%") _ 
-           & "\OneDrive\Desktop\infoX-1.2.1\Dtrees\"
+           & "\OneDrive\Desktop\infoX-1.2.2\Dtrees\"
   
   with CreateObject("Scripting.FileSystemObject")
     for each file in .getfolder(sTemplates).Files
