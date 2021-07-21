@@ -12,13 +12,11 @@
 5. Check the right answers for your case, until the AI makes a recommendation on official information disclosure. 
 
 # Development
-1. Laws knowledge was gained from a training course on the Official Information Laws B.E. 2540 run by the Office of the Prime Minister in 2019.
-3. A decision tree in HTML5 was developed to provide recommendations on information disclosure or non-disclosure, by drawing a conclusion from the facts of the case: the person who requests the information, the characteristics of the information requested, and rules of laws. Input data are received when the user click the HTML links along the decision tree. The data are sent to another point in the page (branch) via the HTML anchor link. This is the  main structure of infoX Pro.
-4. InfoX DSS and infoX Lite use JQuery for dynamic display of queries, choices, and decisions: https://code.jquery.com/jquery-1.5.js. Both trees work together, from checking the right of the person who requests the official information to providing the decisions on simple cases. For complex cases, the user will eventually be guided to infoX Pro.
-5. The three infoX files were integrated by the HTML application file: infoX DSS.hta, which searches the infoX DSS.html on the Desktop and show it on the User Interface as a link to start infoX DSS. The hta file also shows the link to the developer webpage, where the README text and the source codes of the AI are provided.
-6. The source code of the AI has been packaged and released on Github since July 18, 2021.
-7. The decsion trees will be updated when necessary, weekly or monthly, for better results.
-8. The developer is Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment, monte@mnre.go.th
+1. Legal knowledge was gained from the the Official Information Act B.E. 2540 and the website of the Office of the Prime Minister.
+2. Decision trees were made with HTML5/CSS/JavaScript. 
+3. JQuery was used for dynamic display of queries, choices, and decisions: https://code.jquery.com/jquery-1.5.js. 
+4. User interface was designed and programed with HTA.
+5. The AI program files were written, packaged, and released on Github by the developer, Dr. Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment, monte@mnre.go.th.
 
 # Version History
 v1.1.2
