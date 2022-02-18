@@ -16,7 +16,7 @@
 2. Decision trees were coded with HTML5/CSS/JavaScript. 
 3. JQuery was used for dynamic display of queries, choices, and decisions: https://code.jquery.com/jquery-1.5.js. 
 4. User interface was designed and coded with HTA/HTML/JavaScript/VBScript
-5. The AI was programmed with Notepad++, tested, packaged, and released on Github by the developer, Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment, monte@mnre.go.th, HiPPS 10 (Talent Network Scholarship, Germany Group).
+5. The AI was programmed with Notepad++, tested, packaged, and released on Github by the developer, Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment.
 
 # Version History 
 **v1.2.3**
