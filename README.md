@@ -2,12 +2,12 @@
 
 **USER'S GUIDE**
 
-**Infox DSS**, or Information Expert Decision Support System, is the output of an ongoing project for AI development, after the completion of the first phase in 2019, when the prototype AI, **infoX Pro**, was programmed, registered for copyright protection, and certified by the Department of Intellectual Property on May 23, 2019. The new AI, InfoX DSS, comes with UI improvement and can give expert opinions on more diverse cases. It was designed to make faster and more accurate decisions on official information disclosure under the Official Information Act, B. E. 2540. The AI needs to know the key facts about the information being requested and then draws a conclusion from the decision trees that have been trained through supervised learning. It works in three steps: (i) checking the person's right, (ii) checking the information existance and property, and (iii) refering to the legal article (or articles) that allows the the forbidden (or mainly the discloser) of the governmental information being requested.
+**Infox DSS** (Information Expert Decision Support System) is the output of an ongoing AI project, after its prototype (infoX Pro) was registered for copyright protection on May 23, 2019. The new AI comes an ability to give expert opinions on more difficult cases. It was designed to make faster and more accurate decisions on official information disclosure under the Official Information Act, B. E. 2540. The AI needs to know the key facts about the information being requested and then draws a conclusion from the decision trees that have been trained through supervised learning. It works in three steps: (i) checking the person's right, (ii) checking the information existance and property, and (iii) refering to the legal article (or articles) that allows the the forbidden (or mainly the discloser) of the governmental information being requested.
 
 # How to Use
 1. Download the new infoX DSS package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Extract and place the AI folder: **infoX-1.2.3** on the **Desktop** of your computer.
-3. Open the folder and double-click the proper AI file, either **infoXforWindows2021v1.2.3** or **infoXforWindows2018v1.2.3**. 
+2. Extract and place the AI folder: **infoX-1.2.6** on the **Desktop** of your computer.
+3. Open the folder and double-click the AI file. 
 4. Click the **Disclaimer** button on the program screen and follow the instruction.
 5. Check the right answers for your case until the AI makes the recommendation on official information disclosure. 
 
@@ -19,6 +19,9 @@
 5. The AI was programmed with Notepad++, tested, packaged, and released on Github by the developer, Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment.
 
 # Version History 
+**v1.2.6**
+Update dtb
+
 **v1.2.3**
 This is a bug fix version
 1. Fixed a bug that infoX DSS could not run on Windows. This bug was introduced in v1.2.2
