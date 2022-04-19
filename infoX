@@ -6,7 +6,7 @@
 	scroll="no" 
 	singleinstance="yes"
 	icon="DTrees/image/MNRE.ico"
-	version="v1.2.6 for Windows">
+	version="v1.2.7 for Windows">
 	<script type="text/javascript">
 		window.resizeTo(899, 599);
 		function openURL()
