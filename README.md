@@ -13,7 +13,7 @@ Last updated Aril 19, 2022
 5. Click **START** to run the AI. 
 6. Read the questions and check the right answers until the AI will make the recommendation on official information disclosure. 
 7. Note that infoX just gives an expert opinion, the final decision is yours. 
-8. If you have any comments or suggestions, feel free to contact the developer via monte@mnre.go.th
+8. If you have any comments or suggestions, feel free to contact the developer via monte.k@mnre.go.th
 
 # Credits
 1. Legal knowledge was gained from the website of the Office of the Prime Minister.
