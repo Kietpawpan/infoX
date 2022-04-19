@@ -1,24 +1,30 @@
-<div id="g"></div>infoX DSS v1.2.7
+<div id="g"></div>infoX DSS v1.2.8
 
 **USER'S GUIDE**
+Last updated Aril 19, 2022
 
 **Infox DSS** (Information Expert Decision Support System) is the output of an ongoing AI project, after its prototype (infoX Pro) was registered for copyright protection on May 23, 2019. The new AI comes an ability to give expert opinions on more difficult cases. It was designed to make faster and more accurate decisions on official information disclosure under the Official Information Act, B. E. 2540. The AI needs to know the key facts about the information being requested and then draws a conclusion from the decision trees that have been trained through supervised learning. It works in three steps: (i) checking the person's right, (ii) checking the information existance and property, and (iii) refering to the legal article (or articles) that allows the the forbidden (or mainly the discloser) of the governmental information being requested.
 
 # How to Use
-1. Download the new infoX DSS package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Extract and place the AI folder: **infoX-1.2.7** in the folder **Program Files** in Drive C of your computer.
-3. Open the folder and double-click the AI file (infoX.hta). 
+1. Download the latest infoX package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
+2. Extract it to the folder **Program Files** in Drive C of your personal computer.
+3. Open the folder **infoX1.2.8** and double-click the AI file (infoX.hta). 
 4. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction therein.
 5. Click the **START** to run the AI. Check the right answers until the AI makes the recommendation on official information disclosure. 
 
 # Credits
-1. Legal knowledge was gained mainly from the website of the Office of the Prime Minister.
+1. Legal knowledge was gained from the website of the Office of the Prime Minister.
 2. Decision trees were coded with HTML5/CSS/JavaScript. 
 3. JQuery was used for dynamic display of queries, choices, and decisions: https://code.jquery.com/jquery-1.5.js. 
 4. User interface was designed and coded with HTA/HTML/JavaScript/VBScript
-5. The AI was programmed with Notepad++, tested, packaged, and released on Github by the developer, Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment.
+5. The AI was programmed with Notepad++, tested, packaged, and released on Github.
 
 # Version History 
+**V1.2.8**
+1. Minor bug fix. 
+2. Create the hta file and upload it to Github
+3. Any new release must have a new version tag name.
+
 **v1.2.7**
 1. Change the file path to the Program File folder in drive C
 2. Correct the start menu function
