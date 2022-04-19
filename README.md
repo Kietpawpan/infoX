@@ -6,10 +6,10 @@
 
 # How to Use
 1. Download the new infoX DSS package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Extract and place the AI folder: **infoX-1.2.6** on the **Desktop** of your computer.
-3. Open the folder and double-click the AI file. 
-4. Click the **Disclaimer** button on the program screen and follow the instruction.
-5. Check the right answers for your case until the AI makes the recommendation on official information disclosure. 
+2. Extract and place the AI folder: **infoX-1.2.7** in the folder **Program Files** in Drive C of your computer.
+3. Open the folder and double-click the AI file (infoX.hta). 
+4. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction therein.
+5. Click the **START** to run the AI. Check the right answers until the AI makes the recommendation on official information disclosure. 
 
 # Credits
 1. Legal knowledge was gained mainly from the website of the Office of the Prime Minister.
@@ -19,6 +19,11 @@
 5. The AI was programmed with Notepad++, tested, packaged, and released on Github by the developer, Monte Kietpawpan, Director of Service Links Center, Ministry of Natural Resources and Environment.
 
 # Version History 
+**v1.2.7**
+1. Change the file path to the Program File folder in drive C
+2. Correct the start menu function
+3. Update User's Guide
+
 **v1.2.6**
 Update dtb
 
