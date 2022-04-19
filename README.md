@@ -62,3 +62,10 @@ This version is a minor updated version
 # Issues
 - Improve the second decision tree (dtb): Solution 1.13.1 needs more branches on AGENCY NAME / INFORMATION TYPE / PERSONAL CONDICTION 
 - [x] Add sub-branches to Query 1.5.2, 1.5.3, and 1.5.4: Get data from Solution 1.13.1.
+
+# Developer
+Monte Kietpawpan, Ph.D.
+Director, Information & Service Links Division,
+Office of the Permanent Secretatry,
+Ministry of Natural Resources and Environment
+Bangkok 10400
