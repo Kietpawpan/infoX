@@ -65,7 +65,6 @@ This version is a minor updated version
 
 # Developer
 Monte Kietpawpan, Ph.D.
-Director, Information & Service Links Division,
-Office of the Permanent Secretatry,
+Director, Information and Services Link Center
 Ministry of Natural Resources and Environment
-Bangkok 10400
+Bangkok 10400 (monte.k@mnre.go.th)
