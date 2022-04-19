@@ -64,7 +64,4 @@ This version is a minor updated version
 - [x] Add sub-branches to Query 1.5.2, 1.5.3, and 1.5.4: Get data from Solution 1.13.1.
 
 # Developer
-Monte Kietpawpan, Ph.D.
-Director, Information and Services Link Center
-Ministry of Natural Resources and Environment
-Bangkok 10400 (monte.k@mnre.go.th)
+Monte Kietpawpan, Ph.D., Director, Information and Services Link Center, Ministry of Natural Resources and Environment, Bangkok 10400 (monte.k@mnre.go.th)
