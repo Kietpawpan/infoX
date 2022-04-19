@@ -8,9 +8,12 @@ Last updated Aril 19, 2022
 # How to Use
 1. Download the latest infoX package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
 2. Extract it to the folder **Program Files** in Drive C of your personal computer.
-3. Open the folder **infoX1.2.8** and double-click the AI file (infoX.hta). 
+3. Open the folder **infoX-1.2.8** and double-click the AI file (infoX.hta). 
 4. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction therein.
-5. Click the **START** to run the AI. Check the right answers until the AI makes the recommendation on official information disclosure. 
+5. Click **START** to run the AI. 
+6. Read the questions and check the right answers until the AI will make the recommendation on official information disclosure. 
+7. Note that infoX just gives an expert opinion, the final decision is yours. 
+8. If you have any comments or suggestions, feel free to contact the developer via monte@mnre.go.th
 
 # Credits
 1. Legal knowledge was gained from the website of the Office of the Prime Minister.
