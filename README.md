@@ -1,4 +1,4 @@
-<div id="g"></div>infoX DSS v1.2.8
+<div id="g"></div>infoX DSS v1.3.0
 
 **USER'S GUIDE**
 Last updated Aril 19, 2022
@@ -23,6 +23,10 @@ Last updated Aril 19, 2022
 5. The AI was programmed with Notepad++, tested, packaged, and released on Github.
 
 # Version History 
+**v1.3.0**
+1. Add an installer file
+2. Bug fix of v1.2.9
+
 **V1.2.8**
 1. Minor bug fix. 
 2. Create the hta file and upload it to Github
