@@ -1,7 +1,7 @@
 <div id="g"></div>infoX DSS v1.3.0
 
 **USER'S GUIDE**
-Last updated Aril 19, 2022
+Last updated Aril 20, 2022
 
 **Infox DSS** (Information Expert Decision Support System) is the output of an ongoing AI project, after its prototype (infoX Pro) was registered for copyright protection on May 23, 2019. The new AI comes an ability to give expert opinions on more difficult cases. It was designed to make faster and more accurate decisions on official information disclosure under the Official Information Act, B. E. 2540. The AI needs to know the key facts about the information being requested and then draws a conclusion from the decision trees that have been trained through supervised learning. It works in three steps: (i) checking the person's right, (ii) checking the information existance and property, and (iii) refering to the legal article (or articles) that allows the the forbidden (or mainly the discloser) of the governmental information being requested.
 
