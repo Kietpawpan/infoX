@@ -7,13 +7,13 @@ Last updated Aril 21, 2022
 
 # How to Use
 1. Download the latest infoX package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Move the **infoX-1.3.1.zip** file to the **Desktop** of your personal computer.
-3. Double click the **infoX-1.3.1.zip** file and extract the **infoXInstaller.bat** to the Desktop.
-4. Double click the **infoXinstaller.bat** file. Make sure you unblock the file, by checking the checkbox in Property. 
-5. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction ther
+2. Move the downloaded file (**infoX-1.3.1.zip**) to the **Desktop** of your computer.
+3. Double click the **infoX-1.3.1.zip** file and extract **infoXInstaller.bat** to the Desktop.
+4. Double click the **infoXinstaller.bat** file. Make sure you unblock the file before, by checking the checkbox in Property. 
+5. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction therein.
 6. Click **START** to run the AI. 
 7. Read the questions and check the right answers until the AI will make the recommendation on official information disclosure. 
-8. Note that infoX just gives an expert opinion, the final decision is yours. 
+8. Note that infoX just gives expert opinions, the final decision is solely yours. 
 9. If you have any comments or suggestions, feel free to contact the developer via monte.k@mnre.go.th
 
 # Credits
