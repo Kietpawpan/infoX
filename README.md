@@ -3,17 +3,20 @@
 **USER'S GUIDE**
 Last updated Aril 20, 2022
 
-**Infox DSS** (Information Expert Decision Support System) is the output of an ongoing AI project, after its prototype (infoX Pro) was registered for copyright protection on May 23, 2019. The new AI comes an ability to give expert opinions on more difficult cases. It was designed to make faster and more accurate decisions on official information disclosure under the Official Information Act, B. E. 2540. The AI needs to know the key facts about the information being requested and then draws a conclusion from the decision trees that have been trained through supervised learning. It works in three steps: (i) checking the person's right, (ii) checking the information existance and property, and (iii) refering to the legal article (or articles) that allows the the forbidden (or mainly the discloser) of the governmental information being requested.
+**Infox DSS** (Information Expert Decision Support System) is the output of an ongoing AI project, after its prototype (infoX Pro) was registered for copyright protection on May 23, 2019. The new AI comes with an ability to give expert opinions on more difficult cases. It was designed to make faster and more accurate decisions on official information disclosure under the Official Information Act, B. E. 2540. The AI needs to know the key facts about the information being requested and then draws a conclusion from the decision trees trained through supervised learning. It works in three steps: (i) checking the person's right, (ii) checking the information existance and characteristics, and (iii) refering to the legal article (or articles) that allows the the forbidden (or mainly the discloser) of the governmental information being requested.
 
 # How to Use
 1. Download the latest infoX package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Extract it to the folder **Program Files** in Drive C of your personal computer.
-3. Open the folder **infoX-1.2.8** and double-click the AI file (infoX.hta). 
-4. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction therein.
-5. Click **START** to run the AI. 
-6. Read the questions and check the right answers until the AI will make the recommendation on official information disclosure. 
-7. Note that infoX just gives an expert opinion, the final decision is yours. 
-8. If you have any comments or suggestions, feel free to contact the developer via monte.k@mnre.go.th
+2. Move the **infoX-1.3.0.zip** file to the **Desktop** of your personal computer.
+3. Double click the **infoX-1.3.0.zip** file and extract the **infoXinstaller.bat** to the Desktop.
+4. Double click the **infoXinstaller.bat** file. Make sure you unblock the file from opening, by checking the unblock checkbox in Property.
+5. Go to the folder **infoX** in Drive C.
+6. Double click the infoX engine (**infoX.hta**) 
+7. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction ther
+8. Click **START** to run the AI. 
+9. Read the questions and check the right answers until the AI will make the recommendation on official information disclosure. 
+10. Note that infoX just gives an expert opinion, the final decision is yours. 
+11. If you have any comments or suggestions, feel free to contact the developer via monte.k@mnre.go.th
 
 # Credits
 1. Legal knowledge was gained from the website of the Office of the Prime Minister.
