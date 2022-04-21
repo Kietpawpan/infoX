@@ -1,4 +1,4 @@
-<div id="g"></div>infoX DSS v1.3.2
+<div id="g"></div>infoX DSS v1.3.3
 
 **USER'S GUIDE**
 Last updated Aril 21, 2022
@@ -7,8 +7,8 @@ Last updated Aril 21, 2022
 
 # How to Use
 1. Download the latest infoX package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Move the downloaded file (**infoX-1.3.2.zip**) to the **Desktop** of your computer.
-3. Double click the **infoX-1.3.2.zip** file and extract **infoXInstaller.bat** to the Desktop.
+2. Move the downloaded file (**infoX-1.3.3.zip**) to the **Desktop** of your computer.
+3. Double click the **infoX-1.3.3.zip** file and extract **infoXInstaller.bat** to the Desktop.
 4. Double click the **infoXinstaller.bat** file. Make sure you unblock the file before, by checking the checkbox in Property. 
 5. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction therein.
 6. Click **START** to run the AI. 
@@ -21,10 +21,13 @@ Last updated Aril 21, 2022
 2. Decision trees were coded with HTML5/CSS/JavaScript. 
 3. JQuery was used for dynamic display of queries, choices, and decisions: https://code.jquery.com/jquery-1.5.js. 
 4. User interface was designed and coded with HTA/HTML/JavaScript/VBScript
-5. The AI was programmed with Notepad++, tested, packaged, and released on Github.
+5. The AI was programmed with Notepad++ and Visual Studio Code, tested, packaged, and released on Github.
 
 # Version History
-**v3.1.2**
+**v1.3.3**
+Minor bug fix (corrected file path)
+
+**v1.3.2**
 Auto create shortcut and put it in Start Menu, with MNRE icon.
 
 **v1.3.1**
