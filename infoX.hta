@@ -6,7 +6,7 @@
 	scroll="no" 
 	singleinstance="yes"
 	icon="DTrees/image/MNRE.ico"
-	version="v1.3.1 for Windows">
+	version="v1.3.2 for Windows">
 	<script type="text/javascript">
 		window.resizeTo(899, 599);
 		function openURL()
@@ -29,7 +29,7 @@ sub window_onload
 Dim file, oAnchor ' local variable
   
   set oWSHShell = CreateObject("WScript.Shell")
-  sTemplates = oWSHShell.expandenvironmentstrings("C:\infoX\infoX-1.3.1\Dtrees\")
+  sTemplates = oWSHShell.expandenvironmentstrings("C:\infoX\infoX-1.3.2\Dtrees\")
   with CreateObject("Scripting.FileSystemObject")
     for each file in .getfolder(sTemplates).Files
       set oAnchor = document.createElement("A")
