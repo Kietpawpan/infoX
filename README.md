@@ -1,4 +1,4 @@
-<div id="g"></div>infoX DSS v1.3.1
+<div id="g"></div>infoX DSS v1.3.2
 
 **USER'S GUIDE**
 Last updated Aril 21, 2022
@@ -7,8 +7,8 @@ Last updated Aril 21, 2022
 
 # How to Use
 1. Download the latest infoX package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Move the downloaded file (**infoX-1.3.1.zip**) to the **Desktop** of your computer.
-3. Double click the **infoX-1.3.1.zip** file and extract **infoXInstaller.bat** to the Desktop.
+2. Move the downloaded file (**infoX-1.3.2.zip**) to the **Desktop** of your computer.
+3. Double click the **infoX-1.3.2.zip** file and extract **infoXInstaller.bat** to the Desktop.
 4. Double click the **infoXinstaller.bat** file. Make sure you unblock the file before, by checking the checkbox in Property. 
 5. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction therein.
 6. Click **START** to run the AI. 
@@ -23,7 +23,10 @@ Last updated Aril 21, 2022
 4. User interface was designed and coded with HTA/HTML/JavaScript/VBScript
 5. The AI was programmed with Notepad++, tested, packaged, and released on Github.
 
-# Version History 
+# Version History
+**v3.1.2**
+Auto create shortcut and put it in Start Menu, with MNRE icon.
+
 **v1.3.1**
 Improved installer for better UX (easier to find the AI user interface)
 
