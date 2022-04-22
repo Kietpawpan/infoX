@@ -12,9 +12,9 @@ Last updated Aril 22, 2022
 4. Double click the **infoXinstaller.bat** file. Make sure you unblock the file before, by checking the checkbox in Property. 
 5. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction therein.
 6. Click **START** to run the AI. 
-7. Read the questions and check the right answers until the AI will make the recommendation on official information disclosure. 
-8. Note that infoX just gives expert opinions, the final decision is solely yours. 
-9. If you have any comments or suggestions, feel free to contact the developer via monte.k@mnre.go.th
+7. Read each question and check the right answer until the AI will give the expert opinion on official information disclosure for your case. 
+8. The final decision on information disclosure is solely yours. Don't blame the AI or the developer for any decisions you made. 
+9. Contact monte.k@mnre.go.th if you have problems, comments, or suggestions.
 
 # Credits
 1. Legal knowledge was gained from the website of the Office of the Prime Minister.
