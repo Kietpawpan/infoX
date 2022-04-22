@@ -28,6 +28,7 @@ Last updated Aril 22, 2022
 1. Change the file name, from infoXInstaller.bat to InfoXInstaller.cmd
 2. Show the name and version number of the AI and copyright notification in InfoXInstaller.cmd
 3. Add comments to InfoXInstaller.cmd, where modification is needed for subsequent versions.
+4. Easier to uninstall the program.
 
 **v1.3.3**
 Minor bug fix (corrected file path)
