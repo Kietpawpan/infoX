@@ -1,18 +1,18 @@
-<div id="g"></div>infoX DSS v1.3.5
+<div id="g"></div>infoX DSS v1.3.7
 
 **USER'S GUIDE**
-Last updated Aril 23, 2022
+Last updated Aril 24, 2022
 
 **Infox DSS** (Information Expert Decision Support System) is the output of an ongoing AI project, after its prototype (infoX Pro) was registered for copyright protection on May 23, 2019. The new AI comes with an ability to give expert opinions on more difficult cases. It was designed to make faster and more accurate decisions on official information disclosure under the Official Information Act, B. E. 2540. The AI needs to know the key facts about the information being requested and then draws a conclusion from the decision trees trained through supervised learning. It works in three steps: (i) checking the person's right, (ii) checking the information existance and characteristics, and (iii) refering to the legal article (or articles) that allows the the forbidden (or mainly the discloser) of the governmental information being requested.
 
 # How to Use
 1. Download the latest infoX package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Move the downloaded file (**infoX-1.3.5.zip**) to the **Desktop** of your computer.
-3. Double click the **infoX-1.3.5.zip** file and extract **InfoXInstaller.cmd** to the Desktop.
+2. Move the downloaded file (**infoX-1.3.7.zip**) to the **Desktop** of your computer.
+3. Double click the **infoX-1.3.7.zip** file and extract **InfoXInstaller.cmd** to the Desktop.
 4. Double click **infoXinstaller.cmd**. Make sure you unblock the file before, by checking the checkbox in its Property. 
 5. Wait for program data loading.
 6. Enter user name: **Guest**
-7. Enter password: **1.3.5**
+7. Enter password: **1.3.7**
 8. Wait for installing the the AI, which will pop up on the computer screen, after successful installation. 
 9. Click the **Disclaimer** button on the program window, read the text carefully, and follow the instruction therein.
 10. Click **START** to run the AI. 
@@ -32,6 +32,14 @@ Last updated Aril 23, 2022
 6. Batch scripts were learnt from http://www.youtube.com/user/CodeStop
 
 # Version History
+**1.3.7**
+- Bug fixed in the AI engine (wrong version number)
+
+**1.3.6**
+Improved installer
+- Detect existing AI before loading
+- Exit after running the AI
+ 
 **1.3.5**
 Improved installer
 - Title name with version
