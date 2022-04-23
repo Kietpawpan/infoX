@@ -1,4 +1,4 @@
-<div id="g"></div>infoX DSS v1.3.4
+<div id="g"></div>infoX DSS v1.3.5
 
 **USER'S GUIDE**
 Last updated Aril 22, 2022
@@ -7,9 +7,9 @@ Last updated Aril 22, 2022
 
 # How to Use
 1. Download the latest infoX package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Move the downloaded file (**infoX-1.3.4.zip**) to the **Desktop** of your computer.
-3. Double click the **infoX-1.3.4.zip** file and extract **InfoXInstaller.cmd** to the Desktop.
-4. Double click the **infoXinstaller.bat** file. Make sure you unblock the file before, by checking the checkbox in Property. 
+2. Move the downloaded file (**infoX-1.3.5.zip**) to the **Desktop** of your computer.
+3. Double click the **infoX-1.3.5.zip** file and extract **InfoXInstaller.cmd** to the Desktop.
+4. Double click **infoXinstaller.cmd**. Make sure you unblock the file before, by checking the checkbox in its Property. 
 5. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction therein.
 6. Click **START** to run the AI. 
 7. Read each question and check the right answer until the AI will give the expert opinion on official information disclosure for your case. 
@@ -20,10 +20,18 @@ Last updated Aril 22, 2022
 1. Legal knowledge was gained from the website of the Office of the Prime Minister.
 2. Decision trees were coded with HTML5/CSS/JavaScript. 
 3. JQuery was used for dynamic display of queries, choices, and decisions: https://code.jquery.com/jquery-1.5.js. 
-4. User interface was designed and coded with HTA/HTML/JavaScript/VBScript
+4. User interface was coded with HTA/HTML/JavaScript/VBScript
 5. The AI was programmed with Notepad++ and Visual Studio Code, tested, packaged, and released on Github.
+6. Batch scripts were learnt from http://www.youtube.com/user/CodeStop
 
 # Version History
+**1.3.5**
+Improved installer
+- Title name with version
+- Loading delay
+- user ID and password
+- Cleaner AI opening code 
+
 **v1.3.4**
 1. Change the file name, from infoXInstaller.bat to InfoXInstaller.cmd
 2. Show the name and version number of the AI and copyright notification in InfoXInstaller.cmd
