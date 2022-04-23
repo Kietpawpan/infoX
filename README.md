@@ -10,11 +10,14 @@ Last updated Aril 23, 2022
 2. Move the downloaded file (**infoX-1.3.5.zip**) to the **Desktop** of your computer.
 3. Double click the **infoX-1.3.5.zip** file and extract **InfoXInstaller.cmd** to the Desktop.
 4. Double click **infoXinstaller.cmd**. Make sure you unblock the file before, by checking the checkbox in its Property. 
-5. Click the **Disclaimer** button on the program screen, read it carefully and follow the instruction therein.
-6. Click **START** to run the AI. 
-7. Read each question and check the right answer until the AI will give the expert opinion on official information disclosure for your case. 
-8. The final decision on information disclosure is solely yours. Don't blame the AI or the developer for any decisions you made. 
-9. Contact monte.k@mnre.go.th if you have problems, comments, or suggestions.
+5. Wait for program data loading.
+6. Enter user name: **Guest**
+7. Enter password: **1.3.5**
+8. Wait for installing the the AI, which will pop up on the computer screen, after successful installation. 
+9. Click the **Disclaimer** button on the program window, read the text carefully, and follow the instruction therein.
+10. Click **START** to run the AI. 
+11. Read each question and check the right answer until the AI will give the expert opinion for your case. 
+12. The final decision on information disclosure is solely yours. Don't blame the AI or the developer for any wrong decisions.
 
 # Credits
 1. Legal knowledge was gained from the website of the Office of the Prime Minister.
