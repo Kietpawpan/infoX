@@ -19,6 +19,10 @@ Last updated Aril 23, 2022
 11. Read each question and check the right answer until the AI will give the expert opinion for your case. 
 12. The final decision on information disclosure is solely yours. Don't blame the AI or the developer for any wrong decisions.
 
+# Disclaimer
+1. Use the content expressed by the AI at your own risk; it is not guaranteed to be 100% correct nor accuarate.
+2. Please send your feedback and corrections to monte.k@mnre.goth
+
 # Credits
 1. Legal knowledge was gained from the website of the Office of the Prime Minister.
 2. Decision trees were coded with HTML5/CSS/JavaScript. 
