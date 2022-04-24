@@ -1,7 +1,7 @@
 @echo off
 echo "Unstalling . . ."
-IF EXIST "C:\infoX" (
-    rmdir "C:\infoX" /s /q
+IF EXIST "%HOMEDRIVE%\infoX" (
+    rmdir "%HOMEDRIVE%\infoX" /s /q
 )
 echo "infoX DSS was successfully uninstalled."
 pause
