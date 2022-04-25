@@ -1,25 +1,25 @@
-<div id="g"></div>infoX DSS v1.3.8
+<div id="g"></div>infoX DSS v1.3.9
 
 **USER'S GUIDE**
-Last updated Aril 25, 2022
+Last updated Aril 26, 2022
 
-**Infox DSS** (Information Expert Decision Support System) is the output of an ongoing AI project, after its prototype (infoX Pro) was registered for copyright protection on May 23, 2019. The new AI comes with an ability to give expert opinions on more difficult cases. It was designed to make faster and more accurate decisions on official information disclosure under the Official Information Act, B. E. 2540. The AI needs to know the key facts about the information being requested and then draws a conclusion from the decision trees trained through supervised learning. It works in three steps: (i) checking the person's right, (ii) checking the information existance and characteristics, and (iii) refering to the legal article (or articles) that allows the the forbidden (or mainly the discloser) of the governmental information being requested.
+**Infox DSS** (Information Expert Decision Support System) is a prototype AI software that can give expert opinions on more difficult cases, make faster and more accurate decisions on official information disclosure under the Official Information Act, B. E. 2540. The AI needs to know the key facts about the information being requested and then draws a conclusion from the decision trees trained through supervised learning. It works in three steps: (i) checking the person's right, (ii) checking the information existance and characteristics, and (iii) refering to the legal article (or articles) that allows the the forbidden (or mainly the discloser) of the governmental information being requested.
 
 # How to Use
 1. Download the latest infoX package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Move the downloaded file (**infoX-1.3.8.zip**) to the **Desktop** of your computer.
-3. Double click the **infoX-1.3.8.zip** file and extract **InfoXInstaller.cmd** to the Desktop.
+2. Move the downloaded file (**infoX-1.3.9.zip**) to the **Desktop** of your computer.
+3. Double click the **infoX-1.3.9.zip** file and extract **InfoXInstaller.cmd** to the Desktop.
 4. Double click **infoXinstaller.cmd**. Make sure you unblock the file before, by checking the checkbox in its Property. 
 5. Wait for program data loading.
 6. Enter user name: **Guest**
-7. Enter password: **1.3.8**
+7. Enter password: **1.3.9**
 8. Wait for installing the the AI, which will pop up on the computer screen, after successful installation. 
 9. Click the **Disclaimer** button on the program window, read the text carefully, and follow the instruction therein.
-10. Click **START** to run the AI. 
+10. Click the **S T A R T** button to run the AI. 
 11. Read each question and check the right answer until the AI will give the expert opinion for your case. 
 12. The final decision on information disclosure is solely yours. Don't blame the AI or the developer for any wrong decisions.
 
-# Disclaimer
+# Disclaimer (additional)
 1. Use the content expressed by the AI at your own risk; it is not guaranteed to be 100% correct nor accuarate.
 2. Please send your feedback and corrections to monte.k@mnre.goth
 
@@ -32,6 +32,10 @@ Last updated Aril 25, 2022
 6. Batch scripts were learnt from http://www.youtube.com/user/CodeStop
 
 # Version History
+**1.3.9**
+- Improved the user interface of infoX 
+- Functional in different computers.
+ 
 **1.3.8**
 - Improved script to specify the home drive.
 - Check the source code in a proper location, before installation starts.
