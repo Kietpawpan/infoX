@@ -1,4 +1,4 @@
-<div id="g"></div>infoX DSS v1.4.2
+<div id="g"></div>infoX DSS v1.4.3
 
 **USER'S GUIDE**
 Last updated October 11, 2022
@@ -7,12 +7,12 @@ Last updated October 11, 2022
 
 # How to Use
 1. Download the latest infoX package: **Source code (zip)**, from <a href="https://github.com/Kietpawpan/infoX/releases">the released page</a>
-2. Move the downloaded file (**infoX-1.4.2.zip**) to the **Desktop** of your computer.
-3. Double click the **infoX-1.4.2.zip** file and extract **InfoXInstaller.cmd** to the Desktop.
+2. Move the downloaded file (**infoX-1.4.3.zip**) to the **Desktop** of your computer.
+3. Double click the **infoX-1.4.3.zip** file and extract **InfoXInstaller.cmd** to the Desktop.
 4. Double click **infoXinstaller.cmd**. Make sure you unblock the file before, by checking the checkbox in its Property. 
 5. Wait for program data loading.
 6. Enter user name: **Guest**
-7. Enter password: **1.4.2**
+7. Enter password: **1.4.3**
 8. Wait for installing the the AI, which will pop up on the computer screen, after successful installation. 
 9. Click the **Disclaimer** button on the program window, read the text carefully, and follow the instruction therein.
 10. Click the **S T A R T** button to run the AI. 
@@ -32,6 +32,9 @@ Last updated October 11, 2022
 6. Batch scripts were learnt from http://www.youtube.com/user/CodeStop
 
 # Version History
+**1.4.3**
+- Fixed broken links in dtb
+
 **1.4.2**
 - Updated dta to dt651011
 
