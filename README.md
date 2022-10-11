@@ -33,7 +33,7 @@ Last updated October 11, 2022
 
 # Version History
 **1.4.1**
-- Minor bug fix on Version Number issue
+- Minor bug fix on Version Number issue (HTA file)
 
 **1.4.0**
 - Updated dtb
