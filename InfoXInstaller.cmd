@@ -2,7 +2,7 @@
 title infoX DSS Installer 
 rem Set the version number so that re-coding will not be required.
 rem This number must be same as the version number of GitHub infoX package (v-x.x.x)
-set VersionNumber=1.3.9
+set VersionNumber=1.4.0
 rem This version (1) changes C: to HOMEDRIVE environmental (static) variable. (2) Check the source code file before starting installation.
 set Developer=monte.k@mnre.go.th
 rem Monte Kietpawpan, Director, Service Link Center
